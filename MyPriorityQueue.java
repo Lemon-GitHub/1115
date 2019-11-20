@@ -1,4 +1,4 @@
-public class PriorityQueue {
+public class MyPriorityQueue {
     //这个数组是队列本体，基于数组建堆
     private int[] array = new int[100];
     //队列元素个数
